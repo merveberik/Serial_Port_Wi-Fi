@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/ikon_ask">
+        <file>ikon/Hopstarter-Button-Button-Help.ico</file>
+        <file>ikon/Ampeross-Qetto-2-Usb.ico</file>
+        <file>ikon/Rafiqul-Hassan-Blogger-Wireless-2.ico</file>
+        <file>ikon/Oxygen-Icons.org-Oxygen-Devices-network-wireless-connected-100.ico</file>
+        <file>ikon/Icons8-Windows-8-Messaging-Send-File.ico</file>
+    </qresource>
+</RCC>
